@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1590658832 source:g:\users\Рома\desktop\ргр\everything_but_main.cpp
+	<iostream>
+	"everything_but_main.h"
+
+1590659809 g:\users\Рома\desktop\ргр\everything_but_main.h
+
+1590659684 source:g:\users\Рома\desktop\ргр\main.cpp
+	<iostream>
+	"everything_but_main.h"
+
